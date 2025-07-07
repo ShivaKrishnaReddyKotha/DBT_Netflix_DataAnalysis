@@ -47,4 +47,5 @@ Prerequisites for learning DBT include a basic understanding of **SQL**. Knowled
 **Documentation:** DBT can automatically generate a comprehensive documentation website for project, including models, columns, tests, and a visual lineage graph showing model dependencies.
 
 **Macros:** Reusable Jinja-based functions that allow for custom logic or to encapsulate frequently used SQL patterns, similar to functions in programming languages.
+
 **Analysis:** SQL queries used for ad-hoc analysis, exploratory data analysis, or generating reports that do not create permanent objects in the data warehouse.
